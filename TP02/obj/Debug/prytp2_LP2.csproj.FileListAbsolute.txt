@@ -1,0 +1,10 @@
+C:\Users\flavi\Documents\TP02\bin\Debug\prytp2_LP2.exe.config
+C:\Users\flavi\Documents\TP02\bin\Debug\prytp2_LP2.exe
+C:\Users\flavi\Documents\TP02\bin\Debug\prytp2_LP2.pdb
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.csproj.AssemblyReference.cache
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.frmConsultadearticulos.resources
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.frmInfo.resources
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.csproj.GenerateResource.cache
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.csproj.CoreCompileInputs.cache
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.exe
+C:\Users\flavi\Documents\TP02\obj\Debug\prytp2_LP2.pdb
