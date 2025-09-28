@@ -82,13 +82,15 @@ private void lblexportar_Click(object sender, EventArgs e)
             "Éxito", MessageBoxButtons.OK, MessageBoxIcon.Information);
     }
 }
+
+ ```
+
 ✅ Aprendizajes
+- Uso de eventos (`CellClick`, `Click`) en Windows Forms.  
+- Filtrado y exportación de datos a CSV.  
+- Manipulación de `DataGridView` para mostrar información dinámica.  
+- Separación de lógica en métodos auxiliares para mantener el código ordenado.  
+- Práctica en el manejo de archivos `.DAT` y su conversión a formatos más legibles.  
 Manejo de archivos planos (.dat) y exportación a .csv.
-
-Interacción con la interfaz gráfica mediante eventos (Click, CellClick, SelectionChanged).
-
-Validaciones para evitar errores al procesar datos vacíos.
-
-Desarrollo de un flujo completo: consulta → visualización → cálculo → exportación.
 
 
